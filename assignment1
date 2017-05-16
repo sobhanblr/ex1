@@ -1,0 +1,17 @@
+// Android Introduction to java
+// Assignment 1
+
+//Assignment1 Write a program to print the sum of two numbers. One number should be int and another should be float.
+public class Assignment1 {
+
+    public static void main(String[] args) {
+        int i = 10; float j = 20; int k; int sum;
+       
+    k = (int)j;
+        sum = i + k;
+       
+        System.out.println(sum);
+
+    }
+
+}
